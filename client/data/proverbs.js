@@ -3,244 +3,320 @@ const proverbs = [
     id: 1,
     proverb: "Ia a le puga, a le 'ana, or la a le puga niisi, a le 'ana niisi.", 
     translation: "Some parts are polished with puga, others with 'ana.",
-    description: 'x', 
+    topic: 'x',
     type: 'x',
-    topic: 'x'
+    description: 'x'
   },
   {
     id: 2,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 3,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 4,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 5,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 6,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 7,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 8,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 9,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 10,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 11,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 12,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 13,
-    proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    proverb: 'x',
+    translation: 'x', 
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 14,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 15,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 16,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 17,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 18,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 19,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 20,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 21,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 22,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 23,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 24,
     proverb: 'x', 
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
     description: 'x', 
-    type: 'x'
   },
   {
     id: 25,
     proverb: 'x', 
+    translation: 'x',
     description: 'x', 
-    type: 
-    'x'
+    type: 'x'
   },
   {
     id: 26,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 27,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 28,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 29,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 30,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 31,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 32,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 33,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 34,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 35,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 36,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',  
   },
   {
     id: 37,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 38,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 39,
     proverb: 'x', 
-    description: 'x', 
-    type: 'x'
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
+    description: 'x',
   },
   {
     id: 40,
     proverb: 'x', 
+    translation: 'x',
+    topic: 'x',
+    type: 'x',
     description: 'x', 
-    type: 'x'
   },
 ]
 

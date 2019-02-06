@@ -4,8 +4,8 @@ import { Route } from 'react-router-dom'
 import Nav from './Nav'
 import Header from './Header'
 import Home from './Home'
-import Topics from './Topics'
-import Muagagana from './Muagagana'
+import Topics from './TopicsList'
+import Muagagana from './MuagaganaList'
 import Proverb from './Proverb'
 
 

@@ -1,9 +1,15 @@
 import React from 'react'
 
+import { Link } from 'react-router-dom'
+
 const Nav = () => {
   return (
     <React.Fragment>
-      <h1>the friendly fe'e</h1>
+      <ul>
+        <li>
+          <Link to='/'></Link>  
+        </li>
+      </ul>
     </React.Fragment>
   )
 }

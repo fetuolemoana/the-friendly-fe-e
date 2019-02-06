@@ -10,7 +10,7 @@ import Proverb from './Proverb'
 
 const App = () => {
   return (
-    <React.Fragment>
+    <div>
       <Header />
       <Nav />
 
@@ -20,7 +20,7 @@ const App = () => {
       <Route path = '/muagagana' component = {Muagagana} />
       <Route path = '/proverb/:id' component = {Proverb} />
 
-    </React.Fragment>
+    </div>
   )
 }
 

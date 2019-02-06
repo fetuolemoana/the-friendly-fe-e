@@ -1,6 +1,6 @@
 const filters = {
   topic: ["fishing", "hunting", "manual work around the fale", "food", "games, dance and feasts", "land travel", "sea travel", "miscellaneous"],
-  type: [
+  purpose: [
     "upu fa'aaloalo: expressions of respect and courtesy", 
     "upu fa'amaulalo: respect and courtesy in the form of self-abasement", 
     "upu vivi'i: laudatory and complimentary remarks", 
@@ -16,4 +16,4 @@ const filters = {
   ]
 }
 
-export default topics
+export default filters

@@ -4,9 +4,9 @@ import { Route } from 'react-router-dom'
 import Nav from './Nav'
 import Header from './Header'
 import Home from './Home'
-import Topics from './TopicsList'
-import Muagagana from './PurposeList'
 import Proverb from './Proverb'
+import PurposeList from './PurposeList';
+import TopicsList from './TopicsList';
 
 const App = () => {
   return (
@@ -16,8 +16,8 @@ const App = () => {
 
 
       <Route exact path = '/' component = {Home} />
-      <Route path = '/topics' component = {Topics} />
-      <Route path = '/muagagana' component = {Muagagana} />
+      <Route path = '/topic' component = {TopicsList} />
+      <Route path = '/purpose' component = {PurposeList} />
       <Route path = '/proverb/:id' component = {Proverb} />
 
     </div>

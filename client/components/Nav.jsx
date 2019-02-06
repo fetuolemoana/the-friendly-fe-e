@@ -13,7 +13,7 @@ const Nav = () => {
         <li><Link to = '/'>home</Link></li>
         {
           filterList.map(function(filter, index) {
-            return <li key={index}>{filter}</li>
+            return <li key={index}> <Link to={`/${filter}`}>{filter}</Link></li>
           })
         }
       </ul>

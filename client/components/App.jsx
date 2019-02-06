@@ -8,12 +8,12 @@ import Topics from './TopicsList'
 import Muagagana from './MuagaganaList'
 import Proverb from './Proverb'
 
-
 const App = () => {
   return (
     <React.Fragment>
       <Header />
       <Nav />
+
 
       <Route exact path = '/' component = {Home} />
       <Route path = '/topics' component = {Topics} />

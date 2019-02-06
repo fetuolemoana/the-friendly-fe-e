@@ -5,7 +5,7 @@ import Nav from './Nav'
 import Header from './Header'
 import Home from './Home'
 import Topics from './TopicsList'
-import Muagagana from './MuagaganaList'
+import Muagagana from './PurposeList'
 import Proverb from './Proverb'
 
 const App = () => {

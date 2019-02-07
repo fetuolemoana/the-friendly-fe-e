@@ -14,7 +14,6 @@ const App = () => {
       <Header />
       <Nav />
 
-
       <Route exact path = '/' component = {Home} />
       <Route path = '/topic' component = {TopicsList} />
       <Route path = '/purpose' component = {PurposeList} />

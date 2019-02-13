@@ -1,6 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-const ProverbList = () => {
+import proverbs from '../data/proverbs'
+
+const ProverbList = (props) => {
+
+  
   return (
     <React.Fragment>
       <h1>proverbs</h1>

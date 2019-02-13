@@ -8,7 +8,7 @@ const filterList = Object.keys(filters)
 const Nav = () => {
   return (
     <div>
-      <h1>* navigate *</h1>
+      <h1>^^ navigate ^^</h1>
       <ul className="navList">
         <li><h2><Link to = '/'>home</Link></h2></li>
         {

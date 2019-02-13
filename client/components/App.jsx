@@ -7,6 +7,7 @@ import Home from './Home'
 import Proverb from './Proverb'
 import PurposeList from './PurposeList';
 import TopicsList from './TopicsList';
+import ProverbList from './ProverbList'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Route exact path = '/' component = {Home} />
       <Route path = '/topic' component = {TopicsList} />
       <Route path = '/purpose' component = {PurposeList} />
+      <Route path = '#' component = {ProverbList} />
       <Route path = '/proverb/:id' component = {Proverb} />
 
     </div>

@@ -3,7 +3,7 @@ import React from 'react'
 const ProverbList = () => {
   return (
     <React.Fragment>
-      <h1>the friendly fe'e</h1>
+      <h1>proverbs</h1>
     </React.Fragment>
   )
 }

@@ -8,12 +8,12 @@ const filterList = Object.keys(filters)
 const Nav = () => {
   return (
     <div>
-      <h1>the friendly fe'e nav</h1>
-      <ul>
-        <li><Link to = '/'>home</Link></li>
+      <h1>* navigate *</h1>
+      <ul className="navList">
+        <li><h2><Link to = '/'>home</Link></h2></li>
         {
           filterList.map(function(filter, index) {
-            return <li key={index}> <Link to={`/${filter}`}>{filter}</Link></li>
+            return <li key={index}> <h2><Link to={`/${filter}`}>{filter}</Link></h2></li>
           })
         }
       </ul>
